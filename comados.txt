@@ -35,3 +35,6 @@ muestra toda la info del repositorio con una interfaz grafica
 
 -----------------------------------------------------------------------------------------
 GITHUB
+
+vincular repositorio nuevo de github en repositorio local de git
+>> git remote add origin <url>

@@ -12,3 +12,9 @@ Agregar todos los archivos creados, modificados o elminados
 
 quitar un archivo que se agrego con git add
 >> git rm --cached <file>
+
+crear un commit con los archivos o directorios añadidos
+>> git commit -m "primer commit pruebas con GIT"
+
+crear una rama y pasarse a ella
+>> git checkout -b DevMario

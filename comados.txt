@@ -1,3 +1,5 @@
+GIT
+
 Crea un repositorio
 >> git init
 
@@ -18,3 +20,18 @@ crear un commit con los archivos o directorios añadidos
 
 crear una rama y pasarse a ella
 >> git checkout -b DevMario
+
+cambiarse de una rama a otra
+>> git checkout NombreRama
+
+para hacer un merge o fusion de cambios
+>> git merge NombreRama
+
+muestra toda la informacion del repositorio
+>> git log
+
+muestra toda la info del repositorio con una interfaz grafica
+>> gitk
+
+-----------------------------------------------------------------------------------------
+GITHUB

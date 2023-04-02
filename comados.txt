@@ -1,0 +1,14 @@
+Crea un repositorio
+>> git init
+
+comando para ver el estado del repositorio  archivos o carpetas
+>> git status
+
+Agregar archivos para hacer un commit
+>> git add <file>
+
+Agregar todos los archivos creados, modificados o elminados
+>> git add .
+
+quitar un archivo que se agrego con git add
+>> git rm --cached <file>
